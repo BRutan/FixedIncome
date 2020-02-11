@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FixedIncome", "FixedIncome.pyproj", "{260A12A1-DBB4-40BB-B6AB-8B0F37936B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260A12A1-DBB4-40BB-B6AB-8B0F37936B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260A12A1-DBB4-40BB-B6AB-8B0F37936B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FEB8FE-22FA-4EE0-AF6E-977B5F30819C}
+	EndGlobalSection
+EndGlobal
